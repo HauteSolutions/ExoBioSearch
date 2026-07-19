@@ -1,0 +1,91 @@
+Species	Payout	Atmosphere Including	Planet types	Colour depends on:	Volcanism	Areas	Colony [m]	Notes
+Aleoida Arcus	7252500	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere	150	
+Aleoida Coronamus	6284600	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere	150	
+Aleoida Gravis	12934900	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere	150	
+Aleoida Laminiae	3385200	Ammonia	HMC, Rocky	Stars 	-	Scutum-Centaurus Arm	150	
+Aleoida Spica	3385200	Ammonia	HMC, Rocky	Stars 	-	Everywhere except Scutum-Centaurus Arm	150	
+Bacterium Acies	1000000	Neon	Icy, Rocky Ice	Materials	-	Everywhere	500	
+Bacterium Alcyoneum	1658500	Ammonia	HMC, Rocky, Rocky Ice	Stars 	-	Everywhere	500	
+Bacterium Aurasus	1000000	Carbon Dioxide	HMC, Rocky	Stars 	-	Everywhere	500	
+Bacterium Bullaris	1152500	Methane, Methane-Rich	HMC, Icy, Rocky	Materials	-	Everywhere	500	
+Bacterium Cerbrus	1689800	Sulphur Dioxide, Water, Water-Rich	HMC, Rocky, Rocky Ice	Stars 	None, Minor Water Magma	Everywhere	500	
+Bacterium Informem	8418000	Nitrogen	HMC, Icy, Rocky, Rocky Ice	Materials	-	Everywhere	500	
+Bacterium Nebulus	5289900	Helium	Icy	Materials	-	Everywhere	500	
+Bacterium Omentum	4638900	Ammonia, Argon, Argon-Rich, Helium, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Water, Water-Rich	Icy	Materials	-	Everywhere	500	
+Bacterium Scopulum	4934500	Ammonia, Argon, Argon-Rich, Helium, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Water, Water-Rich	Icy	Materials	Carbon Dioxide, Methane	Everywhere	500	
+Bacterium Tela 	1949000	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Helium, Methane, Neon, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Water, Water-Rich	HMC, Icy, Rocky, Rocky Ice	Materials	- / Yes / Water	Everywhere	500	Notoriously hard to predict, bugged
+Bacterium Verrata	3897000	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Helium, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Oxygen, Water, Water-Rich	Icy, Rocky, Rocky Ice	Materials	Water	Everywhere	500	
+Bacterium Vesicula	1000000	Argon	Icy, Rocky, Rocky Ice	Materials	-	Everywhere	500	
+Bacterium Volu	7774700	Oxygen	HMC, Icy, Rocky Ice	Materials	-	Everywhere	500	
+Cactoida Cortexum	3667600	Carbon Dioxide	HMC, Rocky	Stars 	None	Orion-Cygnus Arm	300	
+Cactoida Lapis	2483600	Ammonia	HMC, Rocky	Stars 	-	Scutum-Centaurus Arm	300	
+Cactoida Peperatis	2483600	Ammonia	HMC, Rocky	Stars 	-	Norma/Outer Arm	300	
+Cactoida Pullulanta	3667600	Carbon Dioxide	HMC, Rocky	Stars 	None	Perseus Arm	300	
+Cactoida Vermis	16202800	Water	HMC, Rocky	Stars 	None, Minor Water Magma	Everywhere	300	
+Clypeus Lacrimam	8418000	Carbon Dioxide, Water	Rocky	Stars 	None	Everywhere	150	
+Clypeus Margaritus	11873200	Carbon Dioxide, Water	HMC	Stars 	None	Everywhere	150	
+Clypeus Speculumi	16202800	Carbon Dioxide, Water	Rocky	Stars 	None	Everywhere	150	Codex: Distance to parent star > 5 AU
+Concha Aureolas	7774700	Ammonia	HMC, Rocky	Stars 	-	Everywhere	150	
+Concha Biconcavis	19010800	Nitrogen	HMC, Rocky	Materials	None	Everywhere	150	
+Concha Labiata	2352400	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere	150	
+Concha Renibus	4572400	Ammonia, Carbon Dioxide, Methane, Water	HMC, Rocky	Materials	None	Everywhere	150	
+Electricae Pluma	6284600	Argon, Argon-rich, Neon, Neon-Rich	Icy	Materials	-	Everywhere	1000	Codex: around bright white stars (luminosity V+?), bugged as it can be others too
+Electricae Radialem	6284600	Argon, Argon-rich, Neon, Neon-Rich	Icy	Materials	-	Everywhere	1000	Codex: around nebulae (from testing: usually within 100 ly), also noble gas atmospheres
+Fonticulua Campestris	1000000	Argon	Icy, Rocky Ice	Stars 	-	Everywhere	500	
+Fonticulua Digitos	1804100	Methane	Icy, Rocky Ice	Stars 	None, Minor Methane Magma	Everywhere	500	
+Fonticulua Fluctus	20000000	Oxygen	Icy	Stars 	-	Everywhere	500	
+Fonticulua Lapida	3111000	Nitrogen	Icy	Stars 	-	Everywhere	500	
+Fonticulua Segmentatus	19010800	Neon, Neon-Rich	Icy	Stars 	-	Everywhere	500	
+Fonticulua Upupam	5727600	Argon-Rich	Icy	Stars 	-	Everywhere	500	
+Frutexa Acus	7774700	Carbon Dioxide	Rocky	Stars 	None	Orion-Cygnus Arm	150	
+Frutexa Collum	1639800	Sulphur Dioxide	HMC, Rocky	Stars 	-	Everywhere	150	
+Frutexa Fera	1632500	Carbon Dioxide	Rocky	Stars 	None	Outer Arm	150	
+Frutexa Flabellum	1808900	Ammonia	Rocky	Stars 	-	Everywhere except Scutum-Centaurus Arm	150	
+Frutexa Flammasis	10326000	Ammonia	Rocky	Stars 	-	Scutum-Centaurus Arm	150	
+Frutexa Metallicum	1632500	Ammonia, Carbon Dioxide, Water	HMC	Stars 	None	Everywhere	150	
+Frutexa Sponsae	5988000	Water	Rocky	Stars 	None, Minor Water Magma	Everywhere	150	
+Fumerola Aquatis	6284600	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Sulphur Dioxide-Rich, Water, Water-Rich	Icy, Rocky Ice, Rocky	Materials	Water	Everywhere	100	Codex: water-based volcanism
+Fumerola Carbosis	6284600	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Sulphur Dioxide-Rich, Water, Water-Rich	Icy, Rocky	Materials	CO2 Geysers, Min. Meth. Magma	Everywhere	100	Codex: carbon-based volcanism
+Fumerola Extremus	16202800	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Sulphur Dioxide-Rich, Water, Water-Rich	HMC, Rocky, Rocky Ice	Materials	Min. Amm. Magma, Min. Nitr. Magma	Everywhere	100	"Codex says ""an arbitrary preference of specific volcanism types"""
+Fumerola Nitris	7500900	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Methane, Methane-Rich, Neon, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Sulphur Dioxide-Rich, Water, Water-Rich	Icy	Materials	Min. Amm. Magma, Min. Nitr. Magma	Everywhere	100	Codex: nitrogen-based volcanism
+Fungoida Bullarum	3703200	Argon, Nitrogen	HMC, Rocky, Rocky Ice	Materials	None	Everywhere	300	
+Fungoida Gelata	3330300	Ammonia, Carbon Dioxide, Methane, Water	HMC, Rocky, Rocky Ice	Materials	None, Maj. Sil. Vapour Geysers	Everywhere	300	
+Fungoida Setisis	1670100	Ammonia, Methane	HMC, Rocky, Rocky Ice	Materials	-	Everywhere	300	
+Fungoida Stabitis	2680300	Carbon Dioxide, Water	HMC, Rocky	Materials	None, Maj. Sil. Vapour Geysers	Orion-Cygnus Arm	300	
+Osseus Cornibus	1483000	Carbon Dioxide	HMC, Rocky	Stars 	None	Perseus Arm	800	Codex: Found only in rocky areas
+Osseus Discus	12934900	Ammonia, Argon, Methane, Water	HMC, Rocky, Rocky Ice	Materials	Yes	Everywhere	800	Codex: Found only in rocky areas
+Osseus Fractus	4027800	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere except Perseus Arm	800	Codex: Found only in rocky areas
+Osseus Pellebantus	9739000	Carbon Dioxide	HMC, Rocky	Stars 	None	Everywhere except Perseus Arm	800	Codex: Found only in rocky areas
+Osseus Pumice	3156300	Argon, Argon-Rich, Methane, Nitrogen	HMC, Rocky, Rocky Ice	Materials	None	Everywhere	800	Codex: Found only in rocky areas
+Osseus Spiralis	2404700	Ammonia	HMC, Rocky, Rocky Ice	Stars 	-	Everywhere	800	Codex: Found only in rocky areas
+Recepta Conditivus	14313700	Carbon Dioxide, Oxygen, Sulphur Dioxide	Rocky, Icy	Materials	None	Everywhere	150	
+Recepta Deltahedronix	16202800	Carbon Dioxide, Sulphur Dioxide	HMC, Rocky, Icy	Materials	None	Everywhere	150	Codex says sulphur dioxide atmosphere
+Recepta Umbrux	12934900	Carbon Dioxide, Sulphur Dioxide	Icy, Rocky, Rocky Ice	Stars 	-	Everywhere	150	
+Stratum Araneamus	2448900	Sulphur Dioxide	Rocky	Stars 	-	Everywhere	500	
+Stratum Cucumisis	16202800	Carbon Dioxide, Oxygen, Sulphur Dioxide	Rocky	Stars 	-	Sagittarius-Carina Arm	500	
+Stratum Excutitus	2448900	Argon-rich, Carbon Dioxide, Sulphur Dioxide	Rocky	Stars 	-	Orion-Cygnus Arm	500	
+Stratum Frigus	2637500	Carbon Dioxide, Sulphur Dioxide	Rocky	Stars 	None	Perseus Arm	500	
+Stratum Laminamus	2788300	Ammonia	Rocky	Stars 	-	Orion-Cygnus Arm, but not region 1	500	
+Stratum Limaxus	1362000	Carbon Dioxide, Oxygen, Sulphur Dioxide	Rocky	Stars 	-	Scutum-Centaurus Arm, but not the gal. core	500	
+Stratum Paleas	1362000	Ammonia, Carbon Dioxide, Oxygen, Water	Rocky	Stars 	-	Everywhere	500	
+Stratum Tectonicas	19010800	Ammonia, Argon, Argon-Rich, Carbon Dioxide, Neon-Rich, Nitrogen, Oxygen, Sulphur Dioxide, Sulphur Dioxide-Rich, Water, Water-Rich	HMC	Stars 	-, for Water only: None	Everywhere	500	
+Tubus Cavas	11873200	Carbon Dioxide	Rocky	Stars 	None	Scutum-Centaurus Arm	800	Codex: Requires low gravity (< 0.16 g)
+Tubus Compagibus	7774700	Carbon Dioxide	Rocky	Stars 	None	Sagittarius-Carina Arm	800	Codex: Requires low gravity (< 0.16 g)
+Tubus Conifer	2415500	Carbon Dioxide	Rocky	Stars 	None	Perseus Arm	800	Codex: Requires low gravity (< 0.16 g)
+Tubus Rosarium	2637500	Ammonia	Rocky	Stars 	-	Everywhere	800	Codex: Requires low gravity (< 0.16 g)
+Tubus Sororibus	5727600	Ammonia, Carbon Dioxide	HMC	Stars 	None	Everywhere	800	Codex: Requires low gravity (< 0.16 g)
+Tussock Albata	3252500	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm	200	
+Tussock Capillum	7025800	Argon, Methane	Rocky, Rocky Ice	Stars 	None	Everywhere	200	
+Tussock Caputus	3472400	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm	200	
+Tussock Catena	1766600	Ammonia	HMC, Rocky	Stars 	-	Scutum-Centaurus Arm, but not the gal. core	200	
+Tussock Cultro	1766600	Ammonia	HMC, Rocky	Stars 	-	Orion-Cygnus Arm	200	
+Tussock Divisa	1766600	Ammonia	HMC, Rocky	Stars 	-	Perseus Arm	200	
+Tussock Ignis	1849000	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm	200	
+Tussock Pennata	5853800	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm, but not region 1	200	
+Tussock Pennatis	1000000	Carbon Dioxide	HMC, Rocky	Stars 	None	Outer Arm	200	
+Tussock Propagito	1000000	Carbon Dioxide	HMC, Rocky	Stars 	None	Scutum-Centaurus Arm	200	
+Tussock Serrati	4447100	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm, but not region 1	200	
+Tussock Stigmasis	19010800	Sulphur Dioxide	HMC, Rocky	Stars 	-	Everywhere	200	
+Tussock Triticum	7774700	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm, but not region 1	200	
+Tussock Ventusa	3227700	Carbon Dioxide	HMC, Rocky	Stars 	None	Sagittarius-Carina Arm, Perseus Arm, but not region 1	200	
+Tussock Virgam	14313700	Water	HMC, Rocky	Stars 	None, Minor Water Magma	Everywhere	200	
