@@ -9,7 +9,7 @@
 #include <GuiListView.au3>
 
 Global $ProgName="ExoBioSearch"
-Global $ProgVer="1.0"
+Global $ProgVer="1.1"
 Global $ProgTitle
 
 Global $IniFile
@@ -22,6 +22,7 @@ Global $SpeciesArray[1][9]
 
 Global $IDList = 0
 Global $IDFootfall = 0
+Global $IDStrict = 0
 
 Global $FootFallMultiplier = 1
 
@@ -149,7 +150,9 @@ Func MainDialog()
 	_GUICtrlListView_SetColumnWidth($IDList, 2, 250)
 	_GUICtrlListView_SetColumnWidth($IDList, 3, 500)
 
-	$IDFootFall = GUICtrlCreateCheckbox("&First Footfall", 20, ($MaxlINES*30)+60,  150)
+	$IDFootFall = GUICtrlCreateCheckbox("&First Footfall", 20, ($MaxlINES*30)+60,  100)
+
+	$IDStrict = GUICtrlCreateCheckbox("&Strict", 140, ($MaxlINES*30)+60,  100)
 
 	$Exit = GUICtrlCreateButton("&Exit", 260, ($MaxlINES*30)+60,  50)
 
@@ -173,6 +176,8 @@ Func MainDialog()
 				Else
 					$FootFallMultiplier = 1
 				EndIf
+				ProcessSelections()
+			Case $IDStrict
 				ProcessSelections()
 		EndSwitch
 
@@ -251,7 +256,11 @@ Func ProcessSelections()
 			$FieldArray = StringSplit($ResultArray[$i][2], ",")
 			For $j = 1 to $FieldArray[0]
 				$Field = StringStripWS($FieldArray[$j], $STR_STRIPLEADING + $STR_STRIPTRAILING)
-				If $Field = $Atext Then $Keep = 1
+				If BitAND(GUICtrlRead($IDStrict), $GUI_CHECKED) = $GUI_CHECKED Then
+					If $Field = $Atext Then $Keep = 1
+				Else
+					If StringinStr($Field, $Atext) Then $Keep = 1
+				EndIf
 			Next
 			If $Keep = 0 Then
 				_ArrayDelete($ResultArray, $i)
